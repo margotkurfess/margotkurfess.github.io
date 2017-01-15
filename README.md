@@ -1,6 +1,5 @@
 # [margotkurfess.github.io](https://margotkurfess.github.io/)
 
-# margotkurfess.github.io
 Hello hello!
 
 This is my first crack at building a website using GitHub Pages. 
