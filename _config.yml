@@ -13,7 +13,7 @@ name                     : "Margot Kurfess"
 description              : "Personal blog to practice building a website, github flow, and to share musings about data science and technology."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "margotkurfess/margotkurfess.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Margot Kurfess"
   avatar           : "/assets/images/avatar-photo.jpg"
-  bio              : "Data enthusiast/lover of mountains"
+  bio              : "Personal blog to practice building a website, github flow, and to share musings about data science and technology."
   location         : "New York, NY"
-  email            :
+  email            : "margot.kurfess@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,13 +94,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/margotkurfess"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "margotkurfess"
   vine             :
   weibo            :
   xing             :
