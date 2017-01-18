@@ -1,6 +1,8 @@
 ---
+layout: single
 title: "Hello, World!"
-date: 2017-01-08
+<!-- permalink: posts/hello-world/ -->
+date: 2017-01-07
 ---
 
 My name is Margot and this is my blog!\*
