@@ -6,16 +6,16 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "en-US"
 title                    : "Margot Kurfess"
 title_separator          : "-"
 name                     : "Margot Kurfess"
 description              : "Personal blog to practice building a website, github flow, and to share musings about data science and technology."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://margotkurfess.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "margotkurfess/margotkurfess.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+# breadcrumbs            : true #false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -174,7 +174,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

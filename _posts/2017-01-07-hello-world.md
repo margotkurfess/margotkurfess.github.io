@@ -1,7 +1,10 @@
 ---
 layout: single
 title: "Hello, World!"
-<!-- permalink: posts/hello-world/ -->
+tags:
+  - introduction
+  - blogging
+  - data science
 date: 2017-01-07
 ---
 
