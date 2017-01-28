@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 <center>
-<img src="/assets/images/about-pic.jpg" width="65%">
+<img src="/assets/images/about-pic.jpg" width="100%">
 </center>>
 
 ### Hi! And welcome to my blog.

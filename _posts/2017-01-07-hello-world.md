@@ -1,11 +1,10 @@
 ---
-layout: single
+<!-- layout: single -->
 title: "Hello, World!"
 tags:
   - introduction
   - blogging
   - data science
-date: 2017-01-07
 ---
 
 My name is Margot and this is my blog!\*
