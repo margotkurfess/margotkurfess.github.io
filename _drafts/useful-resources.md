@@ -1,11 +1,8 @@
 ---
-layout: single
 title: "Top 5 Most Useful Resources for a Data Science Noob"
-<!-- permalink: posts/hello-world/ -->
 tags:
   - resources
   - meetups
-date: 2017-01-23
 ---
 
 ## 1. Meetups/Groups

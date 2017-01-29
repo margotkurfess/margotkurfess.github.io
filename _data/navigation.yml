@@ -2,13 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Resume"
-    url: /resume/
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  # - title: "Resume"
+  #   url: /resume/
+  # - title: "Archive"
+  #   url: /archive/
+  

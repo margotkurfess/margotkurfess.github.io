@@ -15,6 +15,6 @@ When I'm not digging into the data behind the wonderful world of sleep at work a
 
 * spending as much time as possible in the mountains (hiking, skiing, camping) and playing ice hockey
 * starting book clubs with friends
-* and elevating underrepresented communities in tech such as my very own queer community and women
+* elevating underrepresented communities in tech
 
 I am always looking for opportunities to collaborate (esp. relating to that last point) so please feel free to reach out!
