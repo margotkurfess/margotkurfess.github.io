@@ -2,10 +2,12 @@
 
 Hello hello!
 
-This is my first crack at building a website using GitHub Pages. 
+This is my first crack at building a website using GitHub Pages and Jekyll. 
 
 My main goals are to:
 
 * get the hang of the GitHub workflow
 * dip my toes into other programming languages
-* have a website set up already for when I want to highlight interesting data projects, etc.
+* have a venue to share any interesting data projects, etc.
+
+I forked the original template for this site from [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) and the documentation can be found [here](https://mmistakes.github.io/minimal-mistakes/).
