@@ -16,8 +16,6 @@ Throughout my MSc in Economics I delved into all sorts of questions and had a pa
 
 I am currently applying the econ background and building on the coding skills that I developed over the last two years as a Data Analyst at [Casper](https://casper.com/) here in NYC. So far I've been working in Python, SQL, and Looker to provide insights across the company and loving it. I'm excited to level up my technical skills both at Casper and constantly learning on the side, hence this blog.
 
-<!-- and learning more about data science. -->
-
 ### I wanted to create a blog for a few reasons. I'm excited to...
 
 * **Challenge myself to develop more technical skills**
