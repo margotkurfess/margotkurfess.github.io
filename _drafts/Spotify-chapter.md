@@ -1,5 +1,5 @@
 ---
-title: "Life Update: The Spotify Chapter"
+title: "Work/Life Update: The Spotify Chapter"
 tags:
   - spotify
   - marketing-analytics
