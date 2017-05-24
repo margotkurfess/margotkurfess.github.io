@@ -21,7 +21,7 @@ The only problem with the hitchhiker's guide is that is assumes knowledge of the
 
 This is [Codeacademy's working definition](https://www.codecademy.com/articles/command-line-commands) of what the command line is:
 
->"The command line is a text interface for your computer. It's a program that takes in commands, which it passes on to the computer's operating system to run.""
+>"The command line is a text interface for your computer. It's a program that takes in commands, which it passes on to the computer's operating system to run."
 
 The command line (also sometimes referred to as "the terminal" or a "shell") becomes increasingly useful as you code more, but for now it is essential for installing python. 
 
@@ -32,22 +32,30 @@ So now that you vaguely know what the command line is and how to find it on your
 ## Installing python
 
 1. Download XCode
+
   Download this from the [App Store](https://developer.apple.com/xcode/).
 2. Install Homebrew
+
   Using the command line, run the following command:
+  
   ```$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
 3. Download Sublime Text 3
+
   Click the download link for your operating system (in the case of Mac, OSX) using [this link](https://www.sublimetext.com/3).
 4. Insert the Homebrew directory at the top of your PATH environment variable
+
   This step is kind of complicated and I still find myself googling how to do this from time to time to make sure I'm doing it correctly. 
   - Open up Sublime Text (you can use any text editor, but I recommended downloading Sublime because I have a very strong preference for it over, for example, TextEdit)
   - Open your user folder (in my case, that is 'margotkurfess') within Sublime
   - Find the file `bash_profile` and open that up
   - Paste the following in at the top:
+
   ```export PATH=/usr/local/bin:/usr/local/sbin:$PATH```
   - Save
 5. Install python 2.7
+
   Run the following code in your Terminal:
+
   ```$ brew install python```
 
 ## Setuptools and pip
