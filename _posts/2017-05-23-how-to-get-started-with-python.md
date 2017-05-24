@@ -35,11 +35,11 @@ So now that you vaguely know what the command line is and how to find it on your
 
     Download this from the [App Store](https://developer.apple.com/xcode/).
 2.  Install Homebrew
-
+    
     Using the command line, run the following command:
-
-  ```$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
+    ```$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
 3.  Download Sublime Text 3
+
     Click the download link for your operating system (in the case of Mac, OSX) using [this link](https://www.sublimetext.com/3).
 4.  Insert the Homebrew directory at the top of your PATH environment variable
 
