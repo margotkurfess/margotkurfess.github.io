@@ -58,7 +58,7 @@ Installing Homebrew means that Setuptools and pip are installed for you. To make
 
 ## Installing jupyter
 
-Jupyter is __. I find it to be the most accessible environment for using python and use it on a regular basis. The great thing about it is that, in a nutshell, you can code a bunch of stuff and visually see what that code outputs.
+Jupyter is a web appication that allows you to run python code interactively. I find it to be the most accessible environment for using python and use it on a regular basis. The great thing about it is that, in a nutshell, you can code a bunch of stuff and visually see what that code outputs.
 
 Since you now have the most recent version of pip installed, just run the following line of code in your terminal to install jupyter:
 
