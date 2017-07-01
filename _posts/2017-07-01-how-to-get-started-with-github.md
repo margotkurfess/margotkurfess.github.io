@@ -99,7 +99,7 @@ So at work I have a whole repo dedicated to queries which I work out of every da
 
     `git pull origin master`
 
-    This is not really relevant when you are working in your own repo and on the master branch, but becomes more impoartant when you work collaboratively with others. This ensures that you have the lastest version of the `master` branch on your local machine so if anyone has made any changes that would have otherwise conflicted with yours, they will be updated.
+    This is not really relevant when you are working in your own repo and on the master branch, but becomes more important when you work collaboratively with others. This ensures that you have the lastest version of the `master` branch on your local machine so if anyone has made any changes that would have otherwise conflicted with yours, they will be updated.
 
 
 5. Rinse & repeat!
