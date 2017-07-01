@@ -91,11 +91,9 @@ So at work I have a whole repo dedicated to queries which I work out of every da
 
     In terminal:
 
-        ```
         git add .
         git commit -m "description of the changes you made since your last commit"
         git push origin master
-        ```
 
     It is also good practice before you start working to run the command:
 
