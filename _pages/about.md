@@ -13,8 +13,8 @@ I'm a native New Yorker working in Marketing Analytics at Spotify. Previous to t
 
 When I'm not digging into the data behind Artist Marketing & Original Content at Spotify and blogging, a few things I enjoy are: 
 
-* spending as much time as possible in the mountains (hiking, skiing, camping) and playing ice hockey
+* spending as much time as possible in the mountains (hiking, skiing, camping)
+* playing ice hockey
 * starting book clubs with friends
-* connecting with underrepresented communities in tech
 
-I am always looking for opportunities to collaborate (esp. relating to that last point) so please feel free to reach out!
+I am always looking for opportunities to collaborate so please feel free to reach out!
