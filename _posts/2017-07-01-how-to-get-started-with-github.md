@@ -26,39 +26,39 @@ There are a few main steps to getting started that I will outline below in more 
 
 1.  Create a repository 
 
-  This is a good [step-by-step guide](https://guides.github.com/activities/hello-world/) for how to create a repository (or "repo" as it is often called) straight from the horse's mouth and it has a good synopsis of what GitHub is. Just follow the "Create a repository step" and don't worry about the branches part just yet. Just stay on the `master` branch if you are using GitHub for more personal use.
+    This is a good [step-by-step guide](https://guides.github.com/activities/hello-world/) for how to create a repository (or "repo" as it is often called) straight from the horse's mouth and it has a good synopsis of what GitHub is. Just follow the "Create a repository step" and don't worry about the branches part just yet. Just stay on the `master` branch if you are using GitHub for more personal use.
 
 2.  Go to your repo in github and clone the repository
 
 3.  Open up the terminal and create a folder where you want your code to live
   
-  For example, I have a folder called `github`. If you want to try this using the command line, do the following:
+    For example, I have a folder called `github`. If you want to try this using the command line, do the following:
 
-  First see which directory you are in by typing:
+    First see which directory you are in by typing:
 
-  `pwd`
+    `pwd`
 
-  This stands for "print working directory" and it will always tell you where you are. For example, when I type `pwd` I see that I am in the directory `/Users/margotkurfess`, or my home directory.
+    This stands for "print working directory" and it will always tell you where you are. For example, when I type `pwd` I see that I am in the directory `/Users/margotkurfess`, or my home directory.
 
-  If you want your github folder to live in a different directory then use the `cd` ("change directory") command to move to a different directory. If you're not sure what folders are available where you are use the `ls` command to get a list.
+    If you want your github folder to live in a different directory then use the `cd` ("change directory") command to move to a different directory. If you're not sure what folders are available where you are use the `ls` command to get a list.
 
-  If you are happy creating a github folder where you are, simply type:
+    If you are happy creating a github folder where you are, simply type:
 
-  `mkdir github`
+    `mkdir github`
 
-  (You can also do this step in your Finder window if that is more comfortable!)
+    (You can also do this step in your Finder window if that is more comfortable!)
 
 4.  In your github folder, clone your new repo
 
-  To get to your new github folder, type the following in terminal:
+    To get to your new github folder, type the following in terminal:
 
-  `cd github`
+    `cd github`
 
-  Then clone your repository:
+    Then clone your repository:
 
-  Copy the link that is in your web browser in github and type the following in terminal:
+    Copy the link that is in your web browser in github and type the following in terminal:
 
-  `git clone <paste the link>`
+    `git clone <paste the link>`
 
 
 # Downloading a good text editor
@@ -77,30 +77,30 @@ So at work I have a whole repo dedicated to queries which I work out of every da
 
 1.  Open up terminal and change directory to your cloned repo
   
-  `cd github/queries`
+    `cd github/queries`
 
 2.  Open up Sublime
   
-  I actually do this from the terminal using installed packages within [iTerm](https://www.iterm2.com/), which is a Mac terminal replacement. If you are interested in doing this, I followed [this article by Mike Buss](http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience). 
+    I actually do this from the terminal using installed packages within [iTerm](https://www.iterm2.com/), which is a Mac terminal replacement. If you are interested in doing this, I followed [this article by Mike Buss](http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience). 
 
-  Otherwise open Sublime to your queries folder.
+    Otherwise open Sublime to your queries folder.
 
 3.  Start doing work and save any changes
 
 4. Use git commits to save changes
 
-  In terminal:
+    In terminal:
 
-  ```git add .
-  git commit -m "description of the changes you made since your last commit"
-  git push origin master
-  ```
+    ```git add .
+    git commit -m "description of the changes you made since your last commit"
+    git push origin master
+    ```
 
-  It is also good practice before you start working to run the command:
+    It is also good practice before you start working to run the command:
 
-  `git pull origin master`
+    `git pull origin master`
 
-  This is not really relevant when you are working in your own repo and on the master branch, but becomes more impoartant when you work collaboratively with others. This ensures that you have the lastest version of the `master` branch on your local machine so if anyone has made any changes that would have otherwise conflicted with yours, they will be updated.
+    This is not really relevant when you are working in your own repo and on the master branch, but becomes more impoartant when you work collaboratively with others. This ensures that you have the lastest version of the `master` branch on your local machine so if anyone has made any changes that would have otherwise conflicted with yours, they will be updated.
 
 5. Rinse & repeat!
 
