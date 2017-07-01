@@ -1,12 +1,12 @@
 ---
-title: "How to Get Started with Github"
+title: "How to Get Started with GitHub"
 tags:
   - github
   - command-line
   - getting-started
 ---
 
-I have had a few people recently ask for tips and resources on how to get started with using Github so thought I'd share some personal tips.
+I have had a few people recently ask for tips and resources on how to get started with using GitHub so thought I'd share some personal tips.
 
 There are three interrelated components for how I use github:
 
