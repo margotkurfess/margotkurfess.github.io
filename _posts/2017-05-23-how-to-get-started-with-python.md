@@ -3,6 +3,7 @@ title: "How to Get Started with Python"
 tags:
   - python
   - data science
+  - getting-started
 ---
 
 I have been meaning to write a post like this for a while now and now have an especially good reason to get a beginner's guide to python down on paper. My baby bro has developed an appetite for more advanced data analysis beyond what Excel can provide and I couldn't be more honored to help him out!
