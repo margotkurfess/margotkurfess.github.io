@@ -32,7 +32,7 @@ There are a few main steps to getting started that I will outline below in more 
 
 3.  Open up the terminal and create a folder where you want your code to live
   
-    For example, I have a folder called `github`. If you want to try this using the command line, do the following:
+    For example, I have a folder called `github`. If you want to try to create a folder like this using the command line, do the following:
 
     First see which directory you are in by typing:
 
