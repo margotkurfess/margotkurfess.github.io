@@ -91,16 +91,18 @@ So at work I have a whole repo dedicated to queries which I work out of every da
 
     In terminal:
 
-    `git add .`
-    `git commit -m "description of the changes you made since your last commit"`
-    `git push origin master`
-    
+        ```
+        git add .
+        git commit -m "description of the changes you made since your last commit"
+        git push origin master
+        ```
 
     It is also good practice before you start working to run the command:
 
     `git pull origin master`
 
     This is not really relevant when you are working in your own repo and on the master branch, but becomes more impoartant when you work collaboratively with others. This ensures that you have the lastest version of the `master` branch on your local machine so if anyone has made any changes that would have otherwise conflicted with yours, they will be updated.
+
 
 5. Rinse & repeat!
 
